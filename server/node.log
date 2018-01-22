@@ -1,0 +1,8 @@
+Type: ERROR; Time: Mon Jan 22 2018 20:23:41 GMT+0000 (Время по Гринвичу (зима)); File: G:\REACTJS\auto-parser\server\routes\categories.js; Message: No Rows Updated
+
+Type: ERROR; Time: Mon Jan 22 2018 20:27:23 GMT+0000 (Время по Гринвичу (зима)); File: G:\REACTJS\auto-parser\server\routes\categories.js; Message: Unexpected token u in JSON at position 0
+
+Type: ERROR; Time: Mon Jan 22 2018 20:29:14 GMT+0000 (Время по Гринвичу (зима)); File: G:\REACTJS\auto-parser\server\routes\categories.js; Message: Unexpected token o in JSON at position 1
+
+Type: ERROR; Time: Mon Jan 22 2018 20:33:11 GMT+0000 (Время по Гринвичу (зима)); File: G:\REACTJS\auto-parser\server\routes\categories.js; Message: Unexpected token o in JSON at position 1
+

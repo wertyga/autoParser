@@ -2,9 +2,6 @@ import fs from 'fs';
 
 import config from '../common/config';
 
-
-import winston from 'winston';
-
 function getLogger(module) {
 
     let pathName = module.filename.split('/').slice(-2).join('/');

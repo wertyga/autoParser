@@ -27,5 +27,6 @@ export default {
     uploads: {
         directory: 'productsImages',
         destination: path.join(__dirname, '../', 'productsImages')
-    }
+    },
+    logFilePath: path.join(__dirname, '../', 'node.log')
 }
